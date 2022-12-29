@@ -2,3 +2,42 @@
 @import "../vendor/fonts/fonts.css";
 
 @import "../blocks/page/page.css";
+
+@import "../blocks/stars/stars.css";
+@import "../blocks/content/content.css";
+@import "../blocks/section/section.css";
+@import "../blocks/section-title/section-title.css";
+
+@import "../blocks/input/input.css";
+@import "../blocks/textarea/textarea.css";
+@import "../blocks/button/button.css";
+
+@import "../blocks/work-list/work-list.css";
+
+@import "../blocks/work/work.css";
+@import "../blocks/work/__sub-title/work__sub-title.css";
+@import "../blocks/work/__title/work__title.css";
+@import "../blocks/work/__text/work__text.css";
+
+@import "../blocks/client-list/client-list.css";
+@import "../blocks/client-list/__item/client-list__item.css";
+
+@import "../blocks/client/client.css";
+@import "../blocks/client/__img/client__img.css";
+@import "../blocks/client/__inner/client__inner.css";
+@import "../blocks/client/__position/client__position.css";
+@import "../blocks/client/__title/client__title.css";
+
+@import "../blocks/client/__inner/client__inner.css";
+@import "../blocks/client/__position/client__position.css";
+@import "../blocks/client/__title/client__title.css";
+
+@import "../blocks/social-links/social-links.css";
+@import "../blocks/social-links/__item/social-links__item.css";
+
+@import "../blocks/footer/footer.css";
+@import "../blocks/footer/__column/footer__column.css";
+@import "../blocks/footer/__title/footer__title.css";
+@import "../blocks/footer/__input/footer__input.css";
+@import "../blocks/footer/__textarea/footer__textarea.css";
+@import "../blocks/footer/__text/footer__text.css";

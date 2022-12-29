@@ -1,0 +1,24 @@
+.stars {
+  background: url("../../images/stars.svg");
+  height: 20px;
+}
+
+.stars_5 {
+  width: 120px;
+}
+
+.stars_4 {
+  width: 100px;
+}
+
+.stars_3 {
+  width: 75px;
+}
+
+.stars_2 {
+  width: 50px;
+}
+
+.stars_1 {
+  width: 25px;
+}

@@ -1,0 +1,21 @@
+.client-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  gap: 66px;
+  margin-top: 20px;
+}
+
+@media (max-width: 1200px) {
+  .client-list {
+    gap: 30px;
+  }
+}
+
+@media (max-width: 980px) {
+  .client-list {
+    flex-direction: column;
+  }
+}

@@ -1,0 +1,7 @@
+.client {
+  border: 1px solid #FFD285;
+  background: #FFFCF5;
+  padding: 32px 30px 28px 30px;
+  height: 100%;
+  box-sizing: border-box;
+}

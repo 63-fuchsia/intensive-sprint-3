@@ -1,0 +1,14 @@
+.footer__text {
+  margin: 0;
+  margin-bottom: 20px;
+  font-size: 17px;
+  line-height: 27px;
+  
+}
+
+@media (min-width: 940px) {
+  .footer__text {
+    max-width: 360px;
+    margin-bottom: auto;
+  }
+}

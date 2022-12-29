@@ -1,0 +1,8 @@
+.client__title {
+  grid-area: title;
+  padding-bottom: 63px;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  margin: 0;
+}

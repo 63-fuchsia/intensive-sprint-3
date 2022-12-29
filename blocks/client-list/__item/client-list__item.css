@@ -1,0 +1,16 @@
+.client-list__item {
+  flex-shrink: 0;
+  width: calc(33.3% - 44px);
+}
+
+@media (max-width: 1200px) {
+  .client-list__item {
+    width: calc(33.3% - 20px);
+  }
+}
+
+@media (max-width: 980px) {
+  .client-list__item {
+    width: 100%;
+  }
+}

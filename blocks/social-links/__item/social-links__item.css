@@ -1,0 +1,7 @@
+.social-links__item:not(:last-child) {
+  margin-right: 20px;
+}
+
+.social-links__item:hover {
+  opacity: 0.8;
+}
